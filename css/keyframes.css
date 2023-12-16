@@ -1,0 +1,67 @@
+/* ===== Animate ===== */
+@keyframes animate {
+    0%, 100% {
+        transform: rotate(0);
+    }
+    50% {
+        transform: rotate(90deg);
+    }
+}
+@-webkit-keyframes animate {
+    0%, 100% {
+        transform: rotate(0);
+    }
+    50% {
+        transform: rotate(90deg);
+    }
+}
+@-moz-keyframes animate {
+    0%, 100% {
+        transform: rotate(0);
+    }
+    50% {
+        transform: rotate(90deg);
+    }
+}
+@-o-keyframes animate {
+    0%, 100% {
+        transform: rotate(0);
+    }
+    50% {
+        transform: rotate(90deg);
+    }
+}
+
+/* ===== Animate Ball ===== */
+@keyframes animateBall {
+    0%, 100% {
+        transform: rotate(135deg);
+    }
+    50% {
+        transform: rotate(-45deg);
+    }
+}
+@-webkit-keyframes animateBall {
+    0%, 100% {
+        transform: rotate(135deg);
+    }
+    50% {
+        transform: rotate(-45deg);
+    }
+}
+@-moz-keyframes animateBall {
+    0%, 100% {
+        transform: rotate(135deg);
+    }
+    50% {
+        transform: rotate(-45deg);
+    }
+}
+@-o-keyframes animateBall {
+    0%, 100% {
+        transform: rotate(135deg);
+    }
+    50% {
+        transform: rotate(-45deg);
+    }
+}
